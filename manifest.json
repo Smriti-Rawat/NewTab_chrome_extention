@@ -1,0 +1,15 @@
+{
+  "name": "Smriti",
+  "version": "1.0",
+  "description": "quotes",
+  "icons": {
+  	"50":"icons8-birthday-50.png"
+  },
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+    "newtab": "popup.html"
+  }
+}
+
+
+
